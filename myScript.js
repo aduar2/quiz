@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	$(".a").hide();
 	$("#q1").click(function() {
-		$(“#a1”).toggle();
+		$("#a1").toggle();
 	});
 
   $("#q2").click(function() {
