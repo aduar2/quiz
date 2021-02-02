@@ -2,7 +2,7 @@ $(document).ready(function() {
 	
 	$("#q1").click(function() {
 		$("#a1").toggle();
-		$("p").css({"color":"red", "background-color": "yellow"})
+		$("h1").css({"color":"red", "background-color": "yellow"})
 	});
 
  	$("#q2").click(function() {
