@@ -1,1 +1,1 @@
-https://aduar2.github.io/quiz/index
+https://aduar2.github.io/quiz
