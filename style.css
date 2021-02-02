@@ -4,7 +4,9 @@ h1 {
 
 div {
   border: 5px solid darkred;
+  position: absolute;
 }
+
 .a {
   position: relative;
   position: absolute;
