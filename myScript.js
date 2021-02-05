@@ -1,16 +1,7 @@
-$(document).ready(function() {
-	$(.a).hide();
-	$("#q1").click(function() {
-		$("#a1").toggle();
-		$("h1").css({"color":"red", "background-color": "yellow"})
+$(document).ready(function(){
+	$("#quiz").click(function(event){
+		//TODO FIX QUESTIONS GREATYER THAN 9!!!
+		var number=event.target.id.slice(-1):
+		$("#a"+number).slideDown("slow");
 	});
-
- 	$("#q2").click(function() {
-		$("#a2").toggle();
-	});
-
-	$("#q3").click(function() {
-		$("#a3").toggle();
-	});
-
 });
