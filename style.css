@@ -12,10 +12,22 @@ p.q {
   border: 3px solid #73AD21;
 }
 div.1 {
-  top: 80px;
-  left: 0;
+  left: 50px;
 }
 div.2 {
+  left: 100px;
+}
+
+div.3 {
+  top: 140px;
+  left: 50px;
+}
+
+div.4 {
+  top: 180px;
+  left: 100px;
+}
+
+div.1, div.2, div.3 {
   top: 80px;
-  left: 100;
 }
