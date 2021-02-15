@@ -1,5 +1,5 @@
 p.a {
-  position: relative;
+  position: absolute;
   width: 400px;
   height: 200px;
   border: 3px solid #73AD21;
@@ -7,9 +7,11 @@ p.a {
 
 p.q {
   position: absolute;
-  top: 80px;
-  right: 0;
   width: 200px;
   height: 100px;
   border: 3px solid #73AD21;
+}
+1 {
+  top: 80px;
+  left: 0;
 }
