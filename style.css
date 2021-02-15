@@ -11,7 +11,11 @@ p.q {
   height: 100px;
   border: 3px solid #73AD21;
 }
-1 {
+div.1 {
   top: 80px;
   left: 0;
+}
+div.2 {
+  top: 80px;
+  left: 100;
 }
