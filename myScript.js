@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	
+	$(".a").hide();
 	$("#q1").click(function() {
 		$("#a1").toggle();
 		$("h1").css({"color":"red", "background-color": "yellow"})
