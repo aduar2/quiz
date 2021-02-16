@@ -11,23 +11,17 @@ p.q {
   height: 100px;
   border: 3px solid #73AD21;
 }
-div.1 {
-  left: 50px;
-}
-div.2 {
-  left: 100px;
-}
 
-div.3 {
-  top: 600px;
-  left: 50px;
-}
-
-div.4 {
-  top: 600px;
-  left: 100px;
-}
 
 div.1, div.2, div.3 {
   top: 300px;
 }
+
+div.4, div.5, div.6 {
+  top: 600px;
+}
+div.7, div.8, div.9 {
+  top: 900px;
+}
+
+div.
