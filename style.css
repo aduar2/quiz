@@ -15,19 +15,27 @@ p.q {
 
 div.1, div.2, div.3 {
   top: 300px;
-  left: 100px;
 }
 
 div.4, div.5, div.6 {
   top: 600px;
-  left: 600px;
 }
 div.7, div.8, div.9 {
   top: 900px;
-  left: 1100px;
 }
 
 div.10, div.11 {
   top: 1200;
-  left: 1400px;
+}
+
+div.1, div.4, div.7, div.10 {
+  left: 100px;
+}
+
+div.2, div.5, div.8, div.11 {
+  left: 600px;
+}
+
+div.3, div.6, div.9 {
+  left: 1100px;
 }
