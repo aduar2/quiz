@@ -7,21 +7,27 @@ p.a {
 
 p.q {
   position: absolute;
-  width: 200px;
-  height: 100px;
+  width: 400px;
+  height: 200px;
   border: 3px solid #73AD21;
 }
 
 
 div.1, div.2, div.3 {
   top: 300px;
+  left: 100px;
 }
 
 div.4, div.5, div.6 {
   top: 600px;
+  left: 600px;
 }
 div.7, div.8, div.9 {
   top: 900px;
+  left: 1100px;
 }
 
-div.
+div.10, div.11 {
+  top: 1200;
+  left: 1400px;
+}
