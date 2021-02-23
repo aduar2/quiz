@@ -13,29 +13,29 @@ p.q {
 }
 
 
-div.d1, div.d2, div.d3 {
+.d1, .d2, .d3 {
   top-margin: 300px;
 }
 
-div.d4, div.d5, div.d6 {
+.d4, .d5, .d6 {
   top-margin: 600px;
 }
-div.7, div.8, div.9 {
+.d7, .d8, .d9 {
   top-margin: 900px;
 }
 
-div.d10, div.d11 {
+.d10, .d11 {
   top-margin: 1200;
 }
 
-div.d1, div.d4, div.d7, div.d10 {
+.d1, .d4, .d7, .d10 {
   left-margin: 100px;
 }
 
-div.d2, div.d5, div.d8, div.d11 {
+.d2, .d5, .d8, .d11 {
   left-margin: 600px;
 }
 
-div.d3, div.d6, div.d9 {
+.d3, .d6, .d9 {
 top-margin: 1100px;
 }
