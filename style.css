@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   padding: 10px;
-  border: 3px solid yellow;
+  border: 3px solid green;
 }
 
 p.a, p.q {
@@ -13,6 +13,7 @@ p.a, p.q {
 
 div {
   max-width: 350px;
+  padding: 10px;
 }
 
 div.d1 {
