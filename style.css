@@ -23,3 +23,43 @@ p {
   text-align: center;
   background-color: lightgray;
   }
+
+.box2 {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: green;
+  }
+
+.box2 > div {
+  width: 50%;
+  margin: 3px;
+  text-align: center;
+  background-color: lightgray;
+  }
+
+.box3 {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: green;
+  }
+
+.box3 > div {
+  width: 50%;
+  margin: 3px;
+  text-align: center;
+  background-color: lightgray;
+  }
+
+
+.box4 {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: green;
+  }
+
+.box4 > div {
+  width: 50%;
+  margin: 3px;
+  text-align: center;
+  background-color: lightgray;
+  }
