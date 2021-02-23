@@ -14,7 +14,7 @@ p.q {
 
 
 div.1, div.2, div.3 {
-  top: 300px;
+  top-margin: 300px;
 }
 
 div.4, div.5, div.6 {
@@ -29,7 +29,7 @@ div.10, div.11 {
 }
 
 div.1, div.4, div.7, div.10 {
-  left: 100px;
+  left-margin: 100px;
 }
 
 div.2, div.5, div.8, div.11 {
