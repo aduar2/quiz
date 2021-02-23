@@ -43,21 +43,21 @@ div.d3 {
 div.d4 {
   position: absolute;
   left: 0;
-  top: 50px;
+  bottom: 50px;
   border: 2px solid blue;
 }
 
 
 div.d5 {
   position: absolute;
-  top: 50px;
+  bottom: 50px;
   left: 370px;
   border: 2px solid blue;
 }
 
 div.d6 {
   position: absolute;
-  top: 50px;
+  bottom: 50px;
   left: 730px;
   border: 2px solid blue;
 }
