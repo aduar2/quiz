@@ -1,43 +1,19 @@
 p.a {
   position: absolute;
-  width: 400px;
+  max-width: 400px;
   height: 200px;
   border: 3px solid #73AD21;
 } 
 
 p.q {
   position: absolute;
-  width: 400px;
+  max-width: 400px;
   height: 200px;
   border: 3px solid #73AD21;
 }
 
-
-.d1, .d2, .d3 {
-  top-margin: 300px;
-}
-
-.d4, .d5, .d6 {
-  top-margin: 600px;
-}
-.d7, .d8, .d9 {
-  top-margin: 900px;
-}
-
-.d10, .d11 {
-  top-margin: 1200;
-}
-
-.d1, .d4, .d7, .d10 {
-  left-margin: 100px;
-}
-
-.d2, .d5, .d8, .d11 {
-  left-margin: 600px;
-}
-
-.d3, .d6, .d9 {
-top-margin: 1100px;
+div{
+ display: inline;
 }
 
 p {
