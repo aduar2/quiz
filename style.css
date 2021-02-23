@@ -9,8 +9,7 @@ p {
 
 div {
   max-width: 350px;
-  border-style: solid;
-  border-color: green;
+  border: 3px solid green;
 }
 
 div.d1 {
