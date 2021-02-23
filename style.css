@@ -1,0 +1,17 @@
+p {
+  padding: 20px;
+}
+
+div {
+  max-width: 350px;
+}
+
+div.d1 {
+  position: relative;
+  left: 30px;
+}
+
+div.d2 {
+  position: absolute;
+  left: 430px;
+}
