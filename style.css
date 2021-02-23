@@ -31,7 +31,7 @@ p {
   }
 
 .box2 > div {
-  width: 100%;
+  width: 30%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
@@ -44,7 +44,7 @@ p {
   }
 
 .box3 > div {
-  width: 50%;
+  width: 30%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
@@ -58,7 +58,7 @@ p {
   }
 
 .box4 > div {
-  width: 50%;
+  width: 30%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
