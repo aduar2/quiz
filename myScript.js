@@ -4,13 +4,40 @@ $(document).ready(function() {
 		$("#a1").toggle();
 		$("h1").css({"color":"red", "background-color": "yellow"})
 	});
-
- 	$("#q2").click(function() {
+	
+	$(".d2").click(function() {
 		$("#a2").toggle();
+		$("h1").css({"color":"orange", "background-color": "yellow"})
 	});
-
-	$("#q3").click(function() {
+	
+	$(".d3").click(function() {
 		$("#a3").toggle();
+		$("h1").css({"color":"yellow", "background-color": "yellow"})
+	});
+	
+	$(".d4").click(function() {
+		$("#a4").toggle();
+		$("h1").css({"color":"green", "background-color": "yellow"})
+	});
+	
+	$(".d5").click(function() {
+		$("#a5").toggle();
+		$("h1").css({"color":"blue", "background-color": "yellow"})
+	});
+	
+	$(".d6").click(function() {
+		$("#a6").toggle();
+		$("h1").css({"color":"purple", "background-color": "yellow"})
+	});
+	
+	$(".d7").click(function() {
+		$("#a7").toggle();
+		$("h1").css({"color":"pink", "background-color": "yellow"})
+	});
+	
+	$(".d8").click(function() {
+		$("#a8").toggle();
+		$("h1").css({"color":"lightblue", "background-color": "yellow"})
 	});
 
 });
