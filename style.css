@@ -4,6 +4,10 @@ h1 {
   border: 3px solid orange;
 }
 
+p {
+text-align: center;
+}
+
 p.a, p.q {
   border: 3px solid green;
   height: 50px;
