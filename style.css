@@ -7,7 +7,6 @@ h1 {
   font-size: 30px;
 }
 
-
 .box1 {
   display: flex;
   flex-wrap: nowrap;
@@ -19,46 +18,4 @@ h1 {
   margin: 3px;
   text-align: center;
   background-color: lightgray;
-  }
-
-
-.box2 {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: lightgreen;
-}
-
-.box2 > div {
-  width: 250px;
-  margin: 3px;
-  text-align: center;
-  background-color: lightgrey;
-}
-
-
-.box3 {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: lightgreen;
-  }
-
-.box3 > div {
-  width: 250px;
-  margin: 3px;
-  text-align: center;
-  background-color: lightgray;
-  }
-
-
-.box4 {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: lightgreen;
-  }
-
-.box4 > div {
-  width: 250px;
-  margin: 3px;
-  text-align: center;
-  background-color: lightgrey;
   }
