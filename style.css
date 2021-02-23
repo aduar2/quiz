@@ -13,29 +13,29 @@ p.q {
 }
 
 
-div.1, div.2, div.3 {
+div.d1, div.d2, div.d3 {
   top-margin: 300px;
 }
 
-div.4, div.5, div.6 {
+div.d4, div.d5, div.d6 {
   top: 600px;
 }
 div.7, div.8, div.9 {
   top: 900px;
 }
 
-div.10, div.11 {
+div.d10, div.d11 {
   top: 1200;
 }
 
-div.1, div.4, div.7, div.10 {
+div.d1, div.d4, div.d7, div.d10 {
   left-margin: 100px;
 }
 
-div.2, div.5, div.8, div.11 {
+div.d2, div.d5, div.d8, div.d11 {
   left-margin: 600px;
 }
 
-div.3, div.6, div.9 {
+div.d3, div.d6, div.d9 {
 top: 1100px;
 }
