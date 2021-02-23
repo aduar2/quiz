@@ -3,4 +3,56 @@ span {
   width: 30%;
   height: 100px;
   padding: 5px;
-  border: 1px solid green;  
+  border: 1px solid green;
+}
+
+h1 {
+  text-align: center; 
+}
+
+.box1 {
+  display: flex;
+  flex-wrap: nowrap;
+  }
+
+.box1 > div {
+  width: 250px;
+  margin: 3px;
+  text-align: center;
+  }
+
+
+.box2 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.box2 > div {
+  width: 250px;
+  margin: 3px;
+  text-align: center;
+}
+
+
+.box3 {
+  display: flex;
+  flex-wrap: nowrap;
+  }
+
+.box3 > div {
+  width: 250px;
+  margin: 3px;
+  text-align: center;
+  }
+
+
+.box4 {
+  display: flex;
+  flex-wrap: nowrap;
+  }
+
+.box4 > div {
+  width: 250px;
+  margin: 3px;
+  text-align: center;
+  }
