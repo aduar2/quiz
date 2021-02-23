@@ -39,6 +39,20 @@ $(document).ready(function() {
 		$("#a8").toggle();
 		$("h1").css({"color":"lightblue", "background-color": "yellow"})
 	});
-
+	
+	$(".d9").click(function() {
+		$("#a9").toggle();
+		$("h1").css({"color":"lightblue", "background-color": "yellow"})
+	});
+	
+	$(".d10").click(function() {
+		$("#a10").toggle();
+		$("h1").css({"color":"lightblue", "background-color": "yellow"})
+	});
+	
+	$(".d11").click(function() {
+		$("#a11").toggle();
+		$("h1").css({"color":"lightblue", "background-color": "yellow"})
+	});
 });
 
