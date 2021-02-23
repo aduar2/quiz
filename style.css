@@ -20,5 +20,5 @@ div.d1 {
 div.d2 {
   position: absolute;
   left: 430px;
-  
+  display: inline;
 }
