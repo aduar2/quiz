@@ -39,3 +39,8 @@ p.q {
 .d3, .d6, .d9 {
 top-margin: 1100px;
 }
+
+p {
+ text-align: center;
+  padding: 10px;
+}
