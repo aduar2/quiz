@@ -7,6 +7,10 @@ h1 {
   font-size: 30px;
 }
 
+p {
+  margin: 10px;
+}
+
 .box1 {
   display: flex;
   flex-wrap: nowrap;
