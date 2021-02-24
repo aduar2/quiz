@@ -32,7 +32,7 @@ p.a, p.q {
   }
 
 .box2 > div {
-  width: 30%;
+  width: 50%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
@@ -45,7 +45,7 @@ p.a, p.q {
   }
 
 .box3 > div {
-  width: 30%;
+  width: 50%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
@@ -55,11 +55,11 @@ p.a, p.q {
 .box4 {
   display: flex;
   flex-wrap: nowrap;
-  background-color: yellow;
+  background-color: darkorange;
   }
 
 .box4 > div {
-  width: 30%;
+  width: 50%;
   margin: 3px;
   text-align: center;
   background-color: lightgray;
