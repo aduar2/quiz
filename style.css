@@ -28,7 +28,7 @@ p {
 .box2 {
   display: flex;
   flex-wrap: nowrap;
-  background-color: orange;
+  background-color: yellow;
   }
 
 .box2 > div {
@@ -55,7 +55,7 @@ p {
 .box4 {
   display: flex;
   flex-wrap: nowrap;
-  background-color: orange;
+  background-color: yellow;
   }
 
 .box4 > div {
