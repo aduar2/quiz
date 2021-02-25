@@ -9,7 +9,7 @@ h1 {
 
 p.a, p.q {
   margin: 10px;
-  border: 3px dashed black;
+  border: 2px solid black;
   text-align: center;
 }
 
