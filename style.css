@@ -28,7 +28,7 @@ p.a, p.q {
 .box2 {
   display: flex;
   flex-wrap: nowrap;
-  background-color: yellow;
+  background-color: darkorange;
   }
 
 .box2 > div {
