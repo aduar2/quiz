@@ -36,12 +36,12 @@ $(document).ready(function() {
 		$("#a9").toggle();
 	});
 	
-	$(".d10").click(function() {
-		$("#a10").toggle();
-	});
-	
 	$(".d11").click(function() {
 		$("#a11").toggle();
+	});
+	
+	$(".d10").click(function() {
+		$("#a10").toggle();
 	});
 	
 });
