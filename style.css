@@ -7,6 +7,10 @@ h1 {
   font-size: 30px;
 }
 
+p {
+  margin: 30px;
+}
+
 p.a, p.q {
   margin: 10px;
   border: 2px solid black;
