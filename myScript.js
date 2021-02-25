@@ -43,8 +43,6 @@ $(document).ready(function() {
 	$(".d11").click(function() {
 		$("#a11").toggle();
 	});
-	$(".d12").click(function() {
-		$("#a12").toggle();
-	});
+	
 });
 
