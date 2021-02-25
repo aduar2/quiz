@@ -22,7 +22,7 @@ p.a, p.q {
   width: 50%;
   margin: 3px;
   text-align: center;
-  background-color: lightgray;
+  background-color: #dae0e0;
   }
 
 .box2 {
@@ -35,7 +35,7 @@ p.a, p.q {
   width: 50%;
   margin: 3px;
   text-align: center;
-  background-color: lightgray;
+  background-color: #a8adad;
   }
 
 .box3 {
@@ -48,7 +48,7 @@ p.a, p.q {
   width: 50%;
   margin: 3px;
   text-align: center;
-  background-color: lightgray;
+  background-color: #dae0e0;
   }
 
 
@@ -62,5 +62,5 @@ p.a, p.q {
   width: 50%;
   margin: 3px;
   text-align: center;
-  background-color: lightgray;
+  background-color: #a8adad;
   }
